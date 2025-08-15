@@ -14,3 +14,32 @@ Data Structure and Algorithm for MAANG, Microsoft, BlackRock, Goldman Sachs, Mor
 
 --> We make daily activites for these program pushing that one should learn (Learn By doing)
 
+Basic Git cmd USED
+
+git checkout -b Devlopment 
+git branch
+git status
+git commit -m "Message"
+git push/git pull
+
+
+and Using GIT GUI versy convient manner that you can also use that stagged of and git commit -- then push
+
+
+--> in prallel traing ,I will teach you helping stock market and physical fit and mentally fit 
+
+
+
+
+--> System Design Also in other Document 
+
+
+
+You will learn in one document 
+One cobo back 
+
+
+------------------>        Latest AZure ,Devop-->Docker Kubernete Also in int these <-------------------------------
+
+--> Make daily habit of programming  Braches used---> main, changes,SIT, DEVELOPMENT and Production 
+
