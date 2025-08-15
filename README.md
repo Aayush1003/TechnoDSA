@@ -5,3 +5,5 @@ Data Structure and Algorithm for MAANG, Microsoft, BlackRock, Goldman Sachs, Mor
 
 --> In this document, I will provide practical and theoretical definitions of data structures, including when and where they are used. Please read these as you would college notes.
 
+--> We make daily activites for these program pushing that one should learn (Learn By doing)
+
