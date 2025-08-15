@@ -1,3 +1,5 @@
+// Java Object-Oriented Programming Example
+
 class Programmer {
     private String name;
     private String language;
@@ -30,6 +32,27 @@ class Programmer {
     }
 
     public static void main(String[] args) {
+        // Example usage of the Programmer class
+    // Create a Programmer instance and print its string representation
+        // This is a simple demonstration of the Programmer class
+        //  Instantiate a Programmer object
+        //  and print its details
+        //  This main method serves as an entry point for testing the Programmer class
+        //  Create a Programmer object with a name and programming language
+        //  Print the Programmer object to see its string representation
+        //  This will help verify that the toString method works correctly
+        //  Example of creating a Programmer instance
+        //  and displaying its information
+        //  This main method is for testing purposes    
+        //  Create a Programmer object with a name and programming language
+        //  Print the Programmer object to see its string representation
+
+        // Example usage of the Programmer class
+        // Create a Programmer instance and print its string representation     
+
+        // This is a simple demonstration of the Programmer class
+        // Instantiate a Programmer object and print its details
+
         Programmer programmer = new Programmer("Alice", "Java");
         System.out.println(programmer);
     }

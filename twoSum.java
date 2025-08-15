@@ -1,5 +1,7 @@
 public class twoSum {
-
+// Aaarray -- Data -- Structure -Day 1
+// This Java program finds two indices of numbers in an array that add up to a given target.
+// It uses a brute force approach to check all pairs of numbers in the array.           
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
