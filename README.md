@@ -1,45 +1,36 @@
-# TechnoDSA
-Data Structure and Algorithm for MAANG, Microsoft, BlackRock, Goldman Sachs, Morgan Stanley, Infosys, and BNY Mellon Interview Preparation
+TechnoDSA
 
---> Simply read the programs to prepare for interviews; tools like Copilot and others can assist you further.
+A comprehensive guide to Data Structures and Algorithms (DSA) with a focus on interview preparation for top companies such as MAANG, Microsoft, BlackRock, Goldman Sachs, Morgan Stanley, Infosys, and BNY Mellon.
 
---> In this document, I will provide practical and theoretical definitions of data structures, including when and where they are used. Please read these as you would college notes.
+📘 What this document covers
 
+DSA for interviews: Practical programs with explanations—read them like college notes for quick preparation.
 
---> I will cover GIT topics in these Readme.doc document ,but there is no sense these higher intelligence is already there .But for your reference Just read these for pratical situation that no human can thought ..
+Theory + Practice: Clear definitions of data structures, when to use them, and real-world applications.
 
+Git basics: Commonly used Git commands and workflows to manage branches (main, changes, SIT, DEVELOPMENT, Production).
 
+System Design: Dedicated documents covering high-level design concepts.
 
---> Like we just don't know ---- in small; frequency and wavelenght we can =sense the thing that we canot imagine
+DevOps & Cloud: Latest topics on Azure, Docker, Kubernetes for modern software development.
 
---> We make daily activites for these program pushing that one should learn (Learn By doing)
-
-Basic Git cmd USED
-
-git checkout -b Devlopment 
+🛠️ Git Commands (Quick Reference)
+git checkout -b Development
 git branch
 git status
 git commit -m "Message"
-git push/git pull
+git push
+git pull
 
 
-and Using GIT GUI versy convient manner that you can also use that stagged of and git commit -- then push
+You can also use Git GUIs for a more convenient staging and commit experience.
 
+🌱 Learning Approach
 
---> in prallel traing ,I will teach you helping stock market and physical fit and mentally fit 
+Learn by doing → push programs daily as practice.
 
+Combine programming with stock market insights and physical & mental fitness for a balanced growth path.
 
+Training runs in parallel: Coding + System Design + DevOps.
 
-
---> System Design Also in other Document 
-
-
-
-You will learn in one document 
-One cobo back 
-
-
------------------->        Latest AZure ,Devop-->Docker Kubernete Also in int these <-------------------------------
-
---> Make daily habit of programming  Braches used---> main, changes,SIT, DEVELOPMENT and Production 
-
+👉 This repository is designed as a one-stop resource for coding interviews, system design, and modern development practices.
