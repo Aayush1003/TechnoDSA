@@ -1,3 +1,4 @@
+package Basics.Basics_Lecture_1;
 import java.util.Scanner;
 
 public class inputOutput {

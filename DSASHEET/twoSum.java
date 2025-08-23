@@ -1,3 +1,4 @@
+package DSASHEET;
 public class twoSum {
 // Aaarray -- Data -- Structure -Day 1
 // This Java program finds two indices of numbers in an array that add up to a given target.

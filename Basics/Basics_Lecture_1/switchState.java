@@ -1,3 +1,4 @@
+package Basics.Basics_Lecture_1;
 public class switchState {
     public static void main(String[] args) {
         // Example usage of switch statement
