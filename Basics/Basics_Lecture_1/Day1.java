@@ -1,3 +1,4 @@
+package Basics.Basics_Lecture_1;
 public class Day1{
     public static void main(String args[]){
         int y = 10;
