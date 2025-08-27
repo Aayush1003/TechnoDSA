@@ -1,28 +1,64 @@
 
-public class patternSeven {
+public class pattern20 {
     
      public static void main(String[] args) {
     // Example usage of a pattern class
     /*
 	
 	
-	    *
-	  * * *
-    * * * * *
-  * * * * * * *
-* * * * * * * * *
+	   *        *
+	   **      **
+	   ***    ***
+	   ****  ****
+	   **********
+	   ****  ****
+	   ***    ***
+	   **      **
+	   *        *
 	
 	
 	*/
+	int rows=5;
 	
-	
-	int rows = 5;
+	for (int i = 1; i <= rows; i++) {
+            // Left stars
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
 
-    for (int i = 1; i <= rows; i++) {
-        for (int j = 1; j <= i; j++) {
-            System.out.print("* ");
+            // Spaces
+            int spaces = 2 * (rows - i);
+            for (int j = 1; j <= spaces; j++) {
+                System.out.print(" ");
+            }
+
+            // Right stars
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+
+            System.out.println();
         }
-        System.out.println();
-    }
+
+        // Lower half (rows-1 down to 1)
+        for (int i = rows - 1; i >= 1; i--) {
+            // Left stars
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+
+            // Spaces
+            int spaces = 2 * (rows - i);
+            for (int j = 1; j <= spaces; j++) {
+                System.out.print(" ");
+            }
+
+            // Right stars
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+
+            System.out.println();
+        }
 }
 }
