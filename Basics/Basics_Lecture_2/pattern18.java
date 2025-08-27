@@ -24,7 +24,7 @@ public class pattern18 {
 			System.out.print((z++)+" ");
 			//ch++;
         }
-	 ch--;
+	  ch--;
         System.out.println();
     }
 }
