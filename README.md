@@ -1,6 +1,6 @@
 TechnoDSA
 
-A comprehensive guide to Data Structures and Algorithms (DSA) with a focus on interview preparation for top companies such as MAANG, Microsoft, BlackRock, Goldman Sachs, Morgan Stanley, Infosys, and BNY Mellon.
+A comprehensive guide to Data Structures and Algorithms (DSA) with a focus on interview preparation for top companies such as MAANG, Microsoft, BlackRock, Goldman Sachs, Morgan Stanley and BNY Mellon.
 
 📘 What this document covers
 
